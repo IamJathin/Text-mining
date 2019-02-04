@@ -6,10 +6,10 @@ library(SnowballC)
 
 
 #load credentials
-consumer_key <- "oL7Rw9ldFHMfEEB73W7RUpGAz"
-consumer_secret<- "f8HzUWJqQzMuJkI2zjrSLoWBZhbewb8hMOeqeY58gJDKeItrtr"
-access_token <- "1064488435560448000-bAm2w0NqBYgSoxHgcgpjlJoWugdHAf"
-access_secret <- "XcQH7UzaIppJiafQTWQ9ljboUrDKRJ8PelWJSqraL88kk"
+consumer_key <- ""
+consumer_secret<- ""
+access_token <- ""
+access_secret <- ""
 #set up to authenticate
 setup_twitter_oauth(consumer_key ,consumer_secret,access_token ,access_secret)
 
